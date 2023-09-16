@@ -6,6 +6,7 @@ homepage: false
 images:
 - doc/img/CLKHUB01A_QRcode.png
 mark: 50
+replaced: CLKHUB02
 status: 3
 tags:
 - mlab
